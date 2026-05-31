@@ -1,0 +1,31 @@
+Playable Prototype v0.1
+
+- Cooler can be unlocked - Finished
+- Buy tab sells Basic Cooler / Fishing Pass / maybe +5 cooler upgrade - Finished
+- Fishing requires pass - Unfinished
+- Inventory full and locked states show clear messages - Partially Finished - Need UMG
+- Auto-fishing loops until inventory full - Unfinished
+
+
+1. Buy tab: Basic Fishing Pass + Basic Cooler + Pier 2 Pass - Finished
+2. Fishing spots check FishingPassTier
+3. Second pier/second fishing spot uses new fish table 
+4. Simple UMG message system
+5. Sell all inventory / sell all cooler if not already done
+6. Auto-fishing loop - Toggleable
+7. +5 cooler upgrade
+
+
+Ideas:
+Roll number/dice when catching fish
+Equipment gives bonus
+Night time fish have much higher flat numbers, harder to catch without upgrades.
+
+
+Pier Guard denial messages:
+
+Tier 1: “Hold up there, friend. You’ll be needin’ a Tier 1 fishin’ pass before I let ye wander down that way.”
+Tier 2: “Ain’t no use headin’ down there less you’ve got yourself a Tier 2 fishin’ pass.”
+Tier 3: “Easy there. You’re not gettin’ down that way without a Tier 3 fishin’ pass, understand?”
+Store Merchant: “Welcome to my shop, traveler. Tell me what you’re after… and we’ll see if I’ve got it.”
+
