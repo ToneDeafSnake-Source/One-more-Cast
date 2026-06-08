@@ -1,0 +1,6 @@
+Update 6/8/26 Patch Notes
+
+- Reworked Fishing Spots to cover a wide area instead of just a spot. 
+- Player now faces the correct direction when interacting with fishing spots
+- Added socket to players hand for fishing rod. Still needs the logic to show while fishing
+- Moved the fishing interact widget to display directly on the screen to match the wide area of the fishing spots. It was previously showing up in the middle of the fishing spot actor and far away depending where you stand.
