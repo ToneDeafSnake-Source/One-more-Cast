@@ -1,0 +1,41 @@
+Update 7/7/26 Patch Notes: 
+
+Bait System Patch Notes
+
+- Created bait data structure:
+  - E_BaitEffectGroup
+  - E_BaitEffectType
+  - ST_BaitData
+  - DT_Baits
+
+- Added 3 test bait types:
+  - Tasty Bait: +1 Catch Roll
+  - Shimmerworm: +5 Fish Value
+  - Bonus Beetle: gamble Scales based on roll margin
+
+- Added bait ownership to BP_Fisherman:
+  - OwnedBaitCounts Map<Name, Integer>
+  - CarriedBaitSlots Name Array
+  - ActiveRollBaitIDs Name Array
+
+- Set bait max ownership to 3 each.
+
+- Added temporary test counts:
+  - 3 Tasty Bait
+  - 3 ShimmerWorm
+  - 3 Bonus Beetles
+
+- Created and tested:
+  - GetBaitCount
+  - GetBaitData
+  - TryAddBait
+  - TryConsumeBait
+
+- Updated plan for bait reaching 0:
+  - remove it from OwnedBaitCounts
+  - clear it from CarriedBaitSlots
+  - keep the 3-slot layout intact by setting the slot to None instead of removing the index
+
+- Next step:
+  - build/test CanActivateBaitForCurrentRoll
+  - then build TryActivateBaitForCurrentRoll

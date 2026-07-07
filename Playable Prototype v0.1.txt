@@ -8,17 +8,17 @@ Playable Prototype v0.1
 
 
 1. Buy tab: Basic Fishing Pass + Basic Cooler + Pier 2 Pass - Finished
-2. Fishing spots check FishingPassTier
-3. Second pier/second fishing spot uses new fish table 
-4. Simple UMG message system
-5. Sell all inventory / sell all cooler if not already done
+2. Fishing spots check FishingPassTier - Finished
+3. Second pier/second fishing spot uses new fish table - Finished
+4. Simple UMG message system - Finished
+5. Sell all inventory / sell all cooler if not already done - Finished
 6. Auto-fishing loop - Toggleable
-7. +5 cooler upgrade
+7. +5 cooler upgrade - Finished
 
 
 Ideas:
-Roll number/dice when catching fish
-Equipment gives bonus
+Roll number/dice when catching fish - Finished
+Equipment gives bonus - Finished
 Night time fish have much higher flat numbers, harder to catch without upgrades.
 
 
