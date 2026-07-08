@@ -1,0 +1,6 @@
+Bait logic is fully wired
+ - Adds and subtracts bonuses
+ - Adds and removes bait from active rolls
+
+Needs slots for inventory, shop, and d20 roll
+Next step is to create slots for it and add it to the menus accordingly and test
