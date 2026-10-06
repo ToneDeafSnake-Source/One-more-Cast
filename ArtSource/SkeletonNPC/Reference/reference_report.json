@@ -1,0 +1,27 @@
+{
+  "mesh_export": true,
+  "materials": [
+    {
+      "material": "/Game/PolygonPirates/Materials/MI_PolygonPirates_01_A.MI_PolygonPirates_01_A",
+      "textures": [
+        {
+          "parameter": "Texture",
+          "asset": "/Game/PolygonPirates/Textures/T_PolygonPirates_01_A.T_PolygonPirates_01_A"
+        }
+      ]
+    }
+  ],
+  "pier_meshes": [
+    "/Game/PolygonPirates/Meshes/Buildings/SM_Bld_Rickety_Dock_Platform_01.SM_Bld_Rickety_Dock_Platform_01",
+    "/Game/GanzSe_Fishing_Harbor/Static_Meshes/SM_FH_Piers_PierModule_Type6_Color1.SM_FH_Piers_PierModule_Type6_Color1",
+    "/Game/GanzSe_Fishing_Harbor/Static_Meshes/SM_FH_Piers_PierModule_Type3_Color1.SM_FH_Piers_PierModule_Type3_Color1",
+    "/Game/GanzSe_Fishing_Harbor/Static_Meshes/SM_FH_Piers_PierModule_Type4_Color1.SM_FH_Piers_PierModule_Type4_Color1",
+    "/Game/GanzSe_Fishing_Harbor/Static_Meshes/SM_FH_Piers_PierModule_AngleCut_L_Type1_Color1.SM_FH_Piers_PierModule_AngleCut_L_Type1_Color1",
+    "/Game/GanzSe_Fishing_Harbor/Static_Meshes/SM_FH_Piers_PierModule_Type2_Color1.SM_FH_Piers_PierModule_Type2_Color1",
+    "/Game/GanzSe_Fishing_Harbor/Static_Meshes/SM_FH_Piers_PierModule_Triangle_Type1_Color1.SM_FH_Piers_PierModule_Triangle_Type1_Color1",
+    "/Game/GanzSe_Fishing_Harbor/Static_Meshes/SM_FH_Piers_PierModule_HalfAngleCut_L_Type1_Color1.SM_FH_Piers_PierModule_HalfAngleCut_L_Type1_Color1",
+    "/Game/GanzSe_Fishing_Harbor/Static_Meshes/SM_FH_Piers_PierModule_HalfAngleCut_R_Type1_Color1.SM_FH_Piers_PierModule_HalfAngleCut_R_Type1_Color1",
+    "/Game/GanzSe_Fishing_Harbor/Static_Meshes/SM_FH_Piers_Stairs_Type4_Color1.SM_FH_Piers_Stairs_Type4_Color1",
+    "/Game/GanzSe_Fishing_Harbor/Static_Meshes/SM_FH_Piers_PierModule_Half_Type1_Color1.SM_FH_Piers_PierModule_Half_Type1_Color1"
+  ]
+}

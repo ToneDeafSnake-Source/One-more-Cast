@@ -1,0 +1,19 @@
+{
+  "finite": true,
+  "lower_leg_deck_interior_vertex_hits": 0,
+  "first_hits": [],
+  "worst_frame_hits": [
+    1,
+    0
+  ],
+  "standing_sole_z_range": [
+    0.9750218987464905,
+    0.9750228524208069
+  ],
+  "deck_top_z": 0.975,
+  "max_knee_frame_step_m": {
+    "l": 0.0493810823818008,
+    "r": 0.06150760349607061
+  },
+  "unreal_tested": false
+}

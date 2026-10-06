@@ -1,0 +1,13 @@
+{
+  "loop_endpoint_max_matrix_error": 0.0,
+  "all_193_frames_finite": true,
+  "root_max_motion": 0.0,
+  "unweighted_vertices": 0,
+  "packed_images": [
+    [
+      "Skeleton_Palette_Weathered",
+      true
+    ]
+  ],
+  "unreal_import_tested": false
+}

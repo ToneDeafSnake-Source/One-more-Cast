@@ -1,0 +1,9 @@
+{
+  "finite": true,
+  "lower_body_matrix_max_change": 1.52587890625e-05,
+  "chest_matrix_max_change": 0.43410301208496094,
+  "speed_vs_original": 1.32,
+  "speed_vs_previous": 1.1,
+  "duration_seconds": 5.303030043840408,
+  "unreal_tested": false
+}

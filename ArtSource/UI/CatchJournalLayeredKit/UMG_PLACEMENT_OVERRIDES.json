@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-01",
+  "evidence": "Seth's Designer screenshot; manual frame adjustment accepted as new baseline. Other original layout.json rectangles are starter values, not final placements.",
+  "canvas": {
+    "width": 1440,
+    "height": 860
+  },
+  "verifiedFrame": {
+    "name": "Img_Frame",
+    "x": 35,
+    "y": 100,
+    "width": 1366,
+    "height": 740,
+    "alignmentX": 0,
+    "alignmentY": 0,
+    "autoSize": false,
+    "zOrder": 20
+  },
+  "horizontalAdjustment": "x = 35 + (originalX - 20) * 1366 / 1400; width = originalWidth * 1366 / 1400. Y and height unchanged. Round and inspect visually before accepting each new widget.",
+  "nextProposedPanels": [
+    {
+      "name": "Img_LeftParchment",
+      "x": 101,
+      "y": 180,
+      "width": 244,
+      "height": 580,
+      "zOrder": 1
+    },
+    {
+      "name": "Img_MiddleParchment",
+      "x": 347,
+      "y": 180,
+      "width": 605,
+      "height": 580,
+      "zOrder": 1
+    },
+    {
+      "name": "Img_RightParchment",
+      "x": 954,
+      "y": 180,
+      "width": 381,
+      "height": 580,
+      "zOrder": 1
+    }
+  ],
+  "verifiedTitleElements": [
+    {
+      "name": "img_TitleRopeLeft",
+      "x": 442,
+      "y": 35,
+      "width": 62,
+      "height": 155,
+      "zOrder": 40
+    },
+    {
+      "name": "img_TitleRopeRight",
+      "x": 928.592224,
+      "y": 35.684727,
+      "width": 62,
+      "height": 155,
+      "zOrder": 40
+    },
+    {
+      "name": "txt_JournalTitle",
+      "x": 537.508118,
+      "y": 58.056973,
+      "width": 365,
+      "height": 60,
+      "zOrder": 31,
+      "font": "hvd_edding_Font",
+      "fontSize": 50,
+      "colorLinearRGBA": [
+        0.08022,
+        0.0185,
+        0.003347,
+        1
+      ]
+    }
+  ],
+  "cornerRopes": "Seth rejected corner ropes; omit all four. Retain title lashings.",
+  "replacementFrame": "L:/Game Projects/One More Cast/Images/UI/UI Images/CatchJournal/FrameReplacement/frame_wood_v2_1366x740.png",
+  "status": "Category column and three-column catch grid visually accepted. Next: headings and shared details shell; catalog filtering/selection/runtime untested.",
+  "verifiedCloseButton": {
+    "name": "Button_Close",
+    "glyph": "img_CloseX",
+    "x": 1324.262085,
+    "y": 115.346481,
+    "width": 64,
+    "height": 64,
+    "alignmentX": 0,
+    "alignmentY": 0,
+    "autoSize": false,
+    "zOrder": 50
+  },
+  "verifiedCategoryIcon": {
+    "widget": "WBP_JournalCategoryButtons",
+    "name": "img_CategoryIcon",
+    "image": "icon_all_piers",
+    "width": 64,
+    "height": 64,
+    "paddingLeft": 5,
+    "paddingTop": 0,
+    "paddingRight": 0,
+    "paddingBottom": 0,
+    "horizontalAlignment": "Left",
+    "verticalAlignment": "Center",
+    "brushTintLinearRGBA": [
+      0,
+      0.61272,
+      1,
+      1
+    ],
+    "brushTintHexSRGB": "00CDFFFF",
+    "colorAndOpacityRGBA": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "evidence": "User screenshots; accepted normal appearance. Other changed padding not shown."
+  },
+  "verifiedCatchGrid": {
+    "scrollBox": "ScrollBox_Catches",
+    "grid": "Grid_Catches",
+    "x": 365,
+    "y": 250,
+    "width": 570,
+    "height": 490,
+    "zOrder": 10,
+    "columns": 3,
+    "tileWidth": 180,
+    "tileHeight": 190,
+    "gridPadding": [
+      4,
+      6,
+      4,
+      6
+    ],
+    "nameFontSize": 25,
+    "iconHeight": 104,
+    "nameHeight": 70,
+    "iconPadding": [
+      2,
+      4,
+      2,
+      4
+    ],
+    "evidence": "October4: Seth confirms explicit-wrap/height changes fix flicker and overflow; scroll height490 prevents lower tile cutoff.",
+    "nameWidth": 168,
+    "wrapTextAt": 168,
+    "autoWrapText": false
+  }
+}

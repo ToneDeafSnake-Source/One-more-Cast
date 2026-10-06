@@ -1,0 +1,95 @@
+{
+  "method": "Built-in image_gen, transparent_background=true, one call per distinct asset. Most calls reference supplied screenshot; replacement symbols omit it.",
+  "prompts": [
+    {
+      "name": "frame_wood",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. Asset: hollow rectangular WOOD FRAME ONLY, landscape aspect approximately 1.9:1. Four continuous wooden rails with small dark iron corner fasteners; transparent empty center. NO ROPE ANYWHERE (rope supplied as separate overlay). NO title plaque, NO close button, NO panels. All corner fittings fully contained inside the rail silhouette, none projecting over future rope locations. Straight outer geometry, medium chunky golden brown wood. Frame outer bounding box should occupy 90 percent of canvas width, centered. Keep all details away from center transparent opening."
+    },
+    {
+      "name": "icon_treasure",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE small treasure chest category icon, dark brown wood with near-black iron straps, golden ivory simple latch, closed rounded lid, front view slight top visibility, centered square transparent canvas. Match reference Treasure icon. No text no ground."
+    },
+    {
+      "name": "close_background",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE small square wooden close button background with chamfered beveled dark golden wood edges and a recessed darker brown center. Blank center, NO X no lettering no rope no metal bolt. Match reference upper right close button. Centered square transparent canvas."
+    },
+    {
+      "name": "icon_close",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE thick white ivory X close-button glyph with thin very dark brown outline, rounded ends, square transparent canvas, no wood no button backing, no shadows beyond outline."
+    },
+    {
+      "name": "sort_background",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE blank compact horizontal parchment dropdown background, 4:1 rectangle with small rounded corners, thin tan recessed edge, warm light center. NO words, NO arrow, NO icon. Suitable for nine-slice, same parchment as reference Sort Name field."
+    },
+    {
+      "name": "icon_dropdown",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE small solid dark brown downward pointing triangular dropdown chevron, rounded triangle corners, centered square genuine transparent canvas, no field no writing no shadow."
+    },
+    {
+      "name": "detail_wash",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE pale blue desaturated watercolor paper wash behind a catch illustration, approximately square with irregular soft brushy edges, subtle translucent light blue center, genuine transparent outside. NO fish NO object NO words NO parchment backing. Very low contrast, reference wash behind large Anglora."
+    },
+    {
+      "name": "divider",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE thin warm tan hand-painted horizontal divider stroke for parchment stats rows, wide 8:1 composition centered on transparent canvas. Simple gently irregular line, tapered ends. No rope, wood, panels, icons, writing."
+    },
+    {
+      "name": "rope_corner",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE isolated cream nautical rope corner wrap. A diagonal loosely twisted thick rope crossing a 90 degree wood frame corner, approximately from lower left to upper right, with short wraps at both ends. Rope ONLY, no wooden block, no nails, no frame, no background. Square canvas. Designed to place ABOVE frame fittings. Generous transparent margin."
+    },
+    {
+      "name": "rope_header",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE isolated vertical slightly diagonal cream twisted rope lashing for the LEFT edge of the title plaque, narrow tall 1:3 composition on transparent canvas. Rope ONLY, no plaque or wood. Use same thickness as reference title rope. Can be mirrored for right edge."
+    },
+    {
+      "name": "panel_parchment",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE blank rectangular warm pale parchment panel with gently irregular beveled edges and subtle mottled texture, no ornament, no writing. Width to height about 1:1.3. Flat orthographic. Interior almost uniform and light for readable live text. Thin darker cream edge. No wood no rope."
+    },
+    {
+      "name": "title_plaque",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE horizontal blank parchment title plaque inset into a golden brown beveled wooden mounting board, landscape 4:1 silhouette, displayed centered with transparent margins. NO ropes, NO bolts covering rope, NO icon, NO words. Parchment large unobstructed writing area. Match raised header in reference."
+    },
+    {
+      "name": "category_normal",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE blank category button background, horizontal 2.3:1 rectangle with subtly chamfered corners, pale parchment fill, fine warm tan bevel outline. No icon no words no numbers no rope. Exact simple silhouette suitable for nine-slice, no ornaments."
+    },
+    {
+      "name": "category_selected",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE blank selected category button background, horizontal 2.3:1 rectangle with subtly chamfered corners, rich marine teal fill, thin cream edge, restrained shading. Straight right edge, NO projecting arrow. No icon no words no numbers no rope. Same silhouette as parchment unselected category button, suitable for nine-slice."
+    },
+    {
+      "name": "entry_normal",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE blank square catch grid cell background, pale warm parchment, softly rounded corners, very thin muted tan outline. Subtle inset appearance and almost uniform center. No icons no writing no decoration. Suitable for nine-slice."
+    },
+    {
+      "name": "entry_selected",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE blank square SELECTED catch grid cell background, pale warm parchment, softly rounded corners, bright thin cyan-teal outline, restrained faint glow immediately at edge. Uniform center, no icons no words. Match reference selected Anglora cell but remove fish and text. Suitable for nine-slice."
+    },
+    {
+      "name": "icon_pier_01",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE small low-poly dock/pier category icon. Dark brown two upright wooden posts, short plank deck between, front view slight top visibility, centered square transparent canvas. Match reference Pier 1 icon. No rope, no text, no numeral."
+    },
+    {
+      "name": "icon_pier_02",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE small low-poly dock/pier category icon, dark brown THREE supporting posts and short plank platform, slight top visibility, centered square transparent canvas. Match reference Pier 2 icon. No text no numeral no water."
+    },
+    {
+      "name": "icon_pier_03",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE small low-poly dock/pier category icon, dark brown horizontal narrow wooden board between FOUR short vertical posts, front view, centered square transparent canvas. Match reference Pier 3 icon. No text no numeral no water."
+    },
+    {
+      "name": "category_pointer",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE small right-pointing triangular selected-category pointer, marine teal center, thin ivory bevel edge matching teal category button, flat left edge to overlap button's right border. Transparent background, no words no icons. Vertical shape with tip pointing right. This is a separate overlay next to selected button."
+    },
+    {
+      "name": "icon_all_piers",
+      "prompt": "Create ONE isolated generic navigation fish pictogram. Solid ivory cream silhouette of a simple sideways fish facing right, broad oval body, triangular tail at left, small upper and lower fins. Flat single-color shape. Genuine transparent background. ONLY the fish silhouette. Absolutely no panel, no frame, no wood, no rope, no button, no surrounding square, no text, no environment. Horizontal 1.7:1 fish centered with empty transparent margins. This is an icon, not a complete UI.",
+      "status": "Replacement: plain standalone symbol; reference omitted to prevent extra framing."
+    },
+    {
+      "name": "icon_dropdown",
+      "prompt": "Create ONE tiny dropdown icon only: a solid dark brown downward-pointing triangle with very slightly rounded corners. Flat single-color silhouette. Genuine transparent background. Only one triangle in the image, centered. No mockup, no UI sheet, no buttons, no frames, no panels, no words, no ornament, no other shapes. Icon itself is wider than tall.",
+      "status": "Replacement: plain standalone symbol; reference omitted to prevent extra framing."
+    }
+  ]
+}

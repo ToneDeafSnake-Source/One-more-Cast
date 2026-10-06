@@ -1,0 +1,18 @@
+Name,DisplayName,Icon,CatchType,JournalCategoryID,JournalSortOrder
+EmeraldRing,Emerald Ring,Texture2D'/Game/Core/Images/Fish/Treasure/ROD.ROD',Treasure,Treasure,10
+CateFish,Cate Fish,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_1/Catefish.Catefish',Fish,Pier_01,10
+Catfish,Cat Fish,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_1/Catfish.Catfish',Fish,Pier_01,20
+DuctFish,Duct Fish,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_1/DuctFish.DuctFish',Fish,Pier_01,30
+SeaBear,Sea Bear,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_1/SeaBear.SeaBear',Fish,Pier_01,40
+SmoothEmberscale,Smooth Emberscale,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_1/SmoothEmberScale.SmoothEmberScale',Fish,Pier_01,50
+Agar,Agar,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_2/Agar.Agar',Fish,Pier_02,10
+Izatagar,Izatagar,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_2/Izatagar.Izatagar',Fish,Pier_02,20
+JuneBeetle,June Beetle,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_2/JuneBeetle.JuneBeetle',Fish,Pier_02,30
+Triangel,Triangel,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_2/Triangel.Triangel',Fish,Pier_02,40
+YellowfinTuna,Yellowfin Tuna,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_2/Yellowfin_Tuna.Yellowfin_Tuna',Fish,Pier_02,50
+Angloria,Angloria,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_3/Angloria.Angloria',Fish,Pier_03,10
+ChloroFish,Chloro Fish,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_3/ChloroFish.ChloroFish',Fish,Pier_03,20
+CowFish,Cow Fish,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_3/CowFish.CowFish',Fish,Pier_03,30
+Grasper,Grasper,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_3/Grasper.Grasper',Fish,Pier_03,40
+PinkyPoo,Pinky Poo,Texture2D'/Game/Core/Images/Fish/Day_Fish/Pier_3/PinkyPoo.PinkyPoo',Fish,Pier_03,50
+ScaleFish,Scale Fish,Texture2D'/Game/Core/Images/Fish/Day_Fish/All_Piers/ScaleFish.ScaleFish',Fish,Non_Exclusive,10

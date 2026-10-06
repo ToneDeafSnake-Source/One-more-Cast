@@ -1,0 +1,405 @@
+{
+  "canvas": {
+    "width": 1440,
+    "height": 860
+  },
+  "note": "Starting rectangles; category counts are illustrative, not catalog membership. Text is separate UMG.",
+  "elements": [
+    {
+      "name": "Backing",
+      "x": 85,
+      "y": 178,
+      "width": 1270,
+      "height": 585,
+      "zOrder": 0,
+      "asset": "panel_parchment"
+    },
+    {
+      "name": "CategoriesPanel",
+      "x": 88,
+      "y": 180,
+      "width": 250,
+      "height": 580,
+      "zOrder": 1,
+      "asset": "panel_parchment"
+    },
+    {
+      "name": "EntriesPanel",
+      "x": 340,
+      "y": 180,
+      "width": 620,
+      "height": 580,
+      "zOrder": 1,
+      "asset": "panel_parchment"
+    },
+    {
+      "name": "DetailsPanel",
+      "x": 962,
+      "y": 180,
+      "width": 390,
+      "height": 580,
+      "zOrder": 1,
+      "asset": "panel_parchment"
+    },
+    {
+      "name": "Category_0",
+      "x": 103,
+      "y": 205,
+      "width": 220,
+      "height": 92,
+      "zOrder": 10,
+      "asset": "category_normal"
+    },
+    {
+      "name": "CategoryIcon_0",
+      "x": 117,
+      "y": 222,
+      "width": 52,
+      "height": 52,
+      "zOrder": 11,
+      "asset": "icon_all_piers"
+    },
+    {
+      "name": "Category_1",
+      "x": 103,
+      "y": 307,
+      "width": 220,
+      "height": 92,
+      "zOrder": 10,
+      "asset": "category_normal"
+    },
+    {
+      "name": "CategoryIcon_1",
+      "x": 117,
+      "y": 324,
+      "width": 52,
+      "height": 52,
+      "zOrder": 11,
+      "asset": "icon_treasure"
+    },
+    {
+      "name": "Category_2",
+      "x": 103,
+      "y": 409,
+      "width": 220,
+      "height": 92,
+      "zOrder": 10,
+      "asset": "category_selected"
+    },
+    {
+      "name": "CategoryIcon_2",
+      "x": 117,
+      "y": 426,
+      "width": 52,
+      "height": 52,
+      "zOrder": 11,
+      "asset": "icon_pier_01"
+    },
+    {
+      "name": "Category_3",
+      "x": 103,
+      "y": 511,
+      "width": 220,
+      "height": 92,
+      "zOrder": 10,
+      "asset": "category_normal"
+    },
+    {
+      "name": "CategoryIcon_3",
+      "x": 117,
+      "y": 528,
+      "width": 52,
+      "height": 52,
+      "zOrder": 11,
+      "asset": "icon_pier_02"
+    },
+    {
+      "name": "Category_4",
+      "x": 103,
+      "y": 613,
+      "width": 220,
+      "height": 92,
+      "zOrder": 10,
+      "asset": "category_normal"
+    },
+    {
+      "name": "CategoryIcon_4",
+      "x": 117,
+      "y": 630,
+      "width": 52,
+      "height": 52,
+      "zOrder": 11,
+      "asset": "icon_pier_03"
+    },
+    {
+      "name": "CategoryPointer",
+      "x": 315,
+      "y": 424,
+      "width": 20,
+      "height": 40,
+      "zOrder": 12,
+      "asset": "category_pointer"
+    },
+    {
+      "name": "SortBackground",
+      "x": 768,
+      "y": 202,
+      "width": 164,
+      "height": 38,
+      "zOrder": 10,
+      "asset": "sort_background"
+    },
+    {
+      "name": "SortArrow",
+      "x": 906,
+      "y": 213,
+      "width": 18,
+      "height": 18,
+      "zOrder": 11,
+      "asset": "icon_dropdown"
+    },
+    {
+      "name": "Entry_0_0",
+      "x": 367,
+      "y": 258,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_selected"
+    },
+    {
+      "name": "Entry_0_1",
+      "x": 511,
+      "y": 258,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "Entry_0_2",
+      "x": 655,
+      "y": 258,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "Entry_0_3",
+      "x": 799,
+      "y": 258,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "Entry_1_0",
+      "x": 367,
+      "y": 412,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "Entry_1_1",
+      "x": 511,
+      "y": 412,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "Entry_1_2",
+      "x": 655,
+      "y": 412,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "Entry_1_3",
+      "x": 799,
+      "y": 412,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "Entry_2_0",
+      "x": 367,
+      "y": 566,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "Entry_2_1",
+      "x": 511,
+      "y": 566,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "Entry_2_2",
+      "x": 655,
+      "y": 566,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "Entry_2_3",
+      "x": 799,
+      "y": 566,
+      "width": 136,
+      "height": 142,
+      "zOrder": 10,
+      "asset": "entry_normal"
+    },
+    {
+      "name": "DetailWash",
+      "x": 1010,
+      "y": 275,
+      "width": 300,
+      "height": 290,
+      "zOrder": 10,
+      "asset": "detail_wash"
+    },
+    {
+      "name": "Divider_0",
+      "x": 994,
+      "y": 607,
+      "width": 320,
+      "height": 4,
+      "zOrder": 10,
+      "asset": "divider"
+    },
+    {
+      "name": "Divider_1",
+      "x": 994,
+      "y": 653,
+      "width": 320,
+      "height": 4,
+      "zOrder": 10,
+      "asset": "divider"
+    },
+    {
+      "name": "Divider_2",
+      "x": 994,
+      "y": 699,
+      "width": 320,
+      "height": 4,
+      "zOrder": 10,
+      "asset": "divider"
+    },
+    {
+      "name": "Frame",
+      "x": 20,
+      "y": 100,
+      "width": 1400,
+      "height": 740,
+      "zOrder": 20,
+      "asset": "frame_wood"
+    },
+    {
+      "name": "TitlePlaque",
+      "x": 445,
+      "y": 35,
+      "width": 550,
+      "height": 120,
+      "zOrder": 30,
+      "asset": "title_plaque"
+    },
+    {
+      "name": "TitleEmblem",
+      "x": 492,
+      "y": 68,
+      "width": 60,
+      "height": 50,
+      "zOrder": 31,
+      "asset": "icon_all_piers"
+    },
+    {
+      "name": "CornerTL",
+      "x": 10,
+      "y": 94,
+      "width": 120,
+      "height": 140,
+      "zOrder": 40,
+      "asset": "rope_corner_left"
+    },
+    {
+      "name": "CornerTR",
+      "x": 1310,
+      "y": 94,
+      "width": 120,
+      "height": 140,
+      "zOrder": 40,
+      "asset": "rope_corner_right"
+    },
+    {
+      "name": "CornerBL",
+      "x": 10,
+      "y": 718,
+      "width": 120,
+      "height": 140,
+      "zOrder": 40,
+      "asset": "rope_corner_right"
+    },
+    {
+      "name": "CornerBR",
+      "x": 1310,
+      "y": 718,
+      "width": 120,
+      "height": 140,
+      "zOrder": 40,
+      "asset": "rope_corner_left"
+    },
+    {
+      "name": "TitleRopeL",
+      "x": 430,
+      "y": 27,
+      "width": 64,
+      "height": 155,
+      "zOrder": 40,
+      "asset": "rope_header_left"
+    },
+    {
+      "name": "TitleRopeR",
+      "x": 945,
+      "y": 27,
+      "width": 64,
+      "height": 155,
+      "zOrder": 40,
+      "asset": "rope_header_right"
+    },
+    {
+      "name": "CloseButton",
+      "x": 1335,
+      "y": 114,
+      "width": 64,
+      "height": 64,
+      "zOrder": 50,
+      "asset": "close_background"
+    },
+    {
+      "name": "CloseGlyph",
+      "x": 1350,
+      "y": 129,
+      "width": 34,
+      "height": 34,
+      "zOrder": 51,
+      "asset": "icon_close"
+    }
+  ]
+}

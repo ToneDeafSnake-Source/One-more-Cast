@@ -1,0 +1,13 @@
+{
+  "all_193_frames_finite": true,
+  "loop_endpoint_error_armature_units": 0.0,
+  "armature_object_drift": 0,
+  "animated_world_z_bounds_m": [
+    0.49109435081481934,
+    1.9212920665740967
+  ],
+  "unweighted_vertices": 0,
+  "unreal_import_tested": false,
+  "fbx_roundtrip_same_bones_and_parents": true,
+  "fbx_roundtrip_max_joint_error_m": 4.76837158203125e-07
+}

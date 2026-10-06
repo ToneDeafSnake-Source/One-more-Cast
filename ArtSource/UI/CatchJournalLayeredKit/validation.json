@@ -1,0 +1,302 @@
+{
+  "textureCount": 23,
+  "allTexturesHaveAlpha": true,
+  "unrealImported": false,
+  "compileOrPIETested": false,
+  "assets": [
+    {
+      "name": "frame_wood",
+      "width": 1400,
+      "height": 740,
+      "sourceWidth": 1728,
+      "sourceHeight": 910,
+      "sourceTransparentPixels": 1207782,
+      "alphaBoundingBox": {
+        "minX": 67,
+        "minY": 84,
+        "maxX": 1661,
+        "maxY": 827
+      }
+    },
+    {
+      "name": "rope_corner",
+      "width": 256,
+      "height": 256,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "sourceTransparentPixels": 1276586,
+      "alphaBoundingBox": {
+        "minX": 93,
+        "minY": 115,
+        "maxX": 1187,
+        "maxY": 1153
+      }
+    },
+    {
+      "name": "rope_header",
+      "width": 128,
+      "height": 384,
+      "sourceWidth": 729,
+      "sourceHeight": 2157,
+      "sourceTransparentPixels": 1125741,
+      "alphaBoundingBox": {
+        "minX": 182,
+        "minY": 105,
+        "maxX": 563,
+        "maxY": 2054
+      }
+    },
+    {
+      "name": "panel_parchment",
+      "width": 512,
+      "height": 640,
+      "sourceWidth": 1100,
+      "sourceHeight": 1429,
+      "sourceTransparentPixels": 209799,
+      "alphaBoundingBox": {
+        "minX": 41,
+        "minY": 48,
+        "maxX": 1059,
+        "maxY": 1382
+      }
+    },
+    {
+      "name": "title_plaque",
+      "width": 1024,
+      "height": 224,
+      "sourceWidth": 2172,
+      "sourceHeight": 724,
+      "sourceTransparentPixels": 768889,
+      "alphaBoundingBox": {
+        "minX": 56,
+        "minY": 161,
+        "maxX": 2118,
+        "maxY": 561
+      }
+    },
+    {
+      "name": "category_normal",
+      "width": 512,
+      "height": 224,
+      "sourceWidth": 1902,
+      "sourceHeight": 827,
+      "sourceTransparentPixels": 502281,
+      "alphaBoundingBox": {
+        "minX": 59,
+        "minY": 110,
+        "maxX": 1842,
+        "maxY": 713
+      }
+    },
+    {
+      "name": "category_selected",
+      "width": 512,
+      "height": 224,
+      "sourceWidth": 1902,
+      "sourceHeight": 827,
+      "sourceTransparentPixels": 777914,
+      "alphaBoundingBox": {
+        "minX": 106,
+        "minY": 176,
+        "maxX": 1795,
+        "maxY": 638
+      }
+    },
+    {
+      "name": "entry_normal",
+      "width": 256,
+      "height": 256,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "sourceTransparentPixels": 291005,
+      "alphaBoundingBox": {
+        "minX": 53,
+        "minY": 73,
+        "maxX": 1202,
+        "maxY": 1181
+      }
+    },
+    {
+      "name": "entry_selected",
+      "width": 256,
+      "height": 256,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "sourceTransparentPixels": 405377,
+      "alphaBoundingBox": {
+        "minX": 84,
+        "minY": 95,
+        "maxX": 1168,
+        "maxY": 1153
+      }
+    },
+    {
+      "name": "icon_all_piers",
+      "width": 128,
+      "height": 128,
+      "sourceWidth": 1619,
+      "sourceHeight": 971,
+      "sourceTransparentPixels": 1016480,
+      "alphaBoundingBox": {
+        "minX": 49,
+        "minY": 142,
+        "maxX": 1583,
+        "maxY": 862
+      }
+    },
+    {
+      "name": "icon_pier_01",
+      "width": 128,
+      "height": 128,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "sourceTransparentPixels": 1132502,
+      "alphaBoundingBox": {
+        "minX": 114,
+        "minY": 305,
+        "maxX": 1139,
+        "maxY": 955
+      }
+    },
+    {
+      "name": "icon_pier_02",
+      "width": 128,
+      "height": 128,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "sourceTransparentPixels": 1151602,
+      "alphaBoundingBox": {
+        "minX": 157,
+        "minY": 333,
+        "maxX": 1144,
+        "maxY": 980
+      }
+    },
+    {
+      "name": "icon_pier_03",
+      "width": 128,
+      "height": 128,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "sourceTransparentPixels": 1083825,
+      "alphaBoundingBox": {
+        "minX": 70,
+        "minY": 295,
+        "maxX": 1182,
+        "maxY": 974
+      }
+    },
+    {
+      "name": "icon_treasure",
+      "width": 128,
+      "height": 128,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "sourceTransparentPixels": 796554,
+      "alphaBoundingBox": {
+        "minX": 91,
+        "minY": 231,
+        "maxX": 1162,
+        "maxY": 1023
+      }
+    },
+    {
+      "name": "close_background",
+      "width": 128,
+      "height": 128,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "sourceTransparentPixels": 864493,
+      "alphaBoundingBox": {
+        "minX": 192,
+        "minY": 218,
+        "maxX": 1062,
+        "maxY": 1035
+      }
+    },
+    {
+      "name": "icon_close",
+      "width": 128,
+      "height": 128,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "sourceTransparentPixels": 936397,
+      "alphaBoundingBox": {
+        "minX": 143,
+        "minY": 161,
+        "maxX": 1110,
+        "maxY": 1097
+      }
+    },
+    {
+      "name": "sort_background",
+      "width": 512,
+      "height": 128,
+      "sourceWidth": 2172,
+      "sourceHeight": 724,
+      "sourceTransparentPixels": 772574,
+      "alphaBoundingBox": {
+        "minX": 60,
+        "minY": 163,
+        "maxX": 2108,
+        "maxY": 550
+      }
+    },
+    {
+      "name": "icon_dropdown",
+      "width": 64,
+      "height": 64,
+      "sourceWidth": 1774,
+      "sourceHeight": 887,
+      "sourceTransparentPixels": 1503709,
+      "alphaBoundingBox": {
+        "minX": 641,
+        "minY": 339,
+        "maxX": 1132,
+        "maxY": 583
+      }
+    },
+    {
+      "name": "detail_wash",
+      "width": 512,
+      "height": 512,
+      "sourceWidth": 1278,
+      "sourceHeight": 1230,
+      "sourceTransparentPixels": 583486,
+      "alphaBoundingBox": {
+        "minX": 65,
+        "minY": 124,
+        "maxX": 1237,
+        "maxY": 1152
+      }
+    },
+    {
+      "name": "divider",
+      "width": 512,
+      "height": 32,
+      "sourceWidth": 1983,
+      "sourceHeight": 793,
+      "sourceTransparentPixels": 1521727,
+      "alphaBoundingBox": {
+        "minX": 65,
+        "minY": 382,
+        "maxX": 1918,
+        "maxY": 415
+      }
+    },
+    {
+      "name": "category_pointer",
+      "width": 64,
+      "height": 128,
+      "sourceWidth": 1296,
+      "sourceHeight": 1213,
+      "sourceTransparentPixels": 1393352,
+      "alphaBoundingBox": {
+        "minX": 493,
+        "minY": 219,
+        "maxX": 860,
+        "maxY": 997
+      }
+    }
+  ]
+}

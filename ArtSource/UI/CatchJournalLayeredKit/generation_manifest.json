@@ -1,0 +1,125 @@
+{
+  "method": "Built-in image_gen; each distinct asset generated separately using the supplied screen as visual reference. Mechanical trim/resize/mirror for UMG packaging.",
+  "reference": "C:\\Users\\concr\\AppData\\Local\\Temp\\codex-clipboard-9ee40e4f-3b7a-4a6b-a029-333d59bb515a.png",
+  "basePrompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark.",
+  "assets": [
+    {
+      "name": "frame_wood",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-edd5d586-bf09-444b-be18-7495100d8b35.png"
+    },
+    {
+      "name": "rope_corner",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-88e2de23-a253-44dc-bcff-54d91a85f4cb.png"
+    },
+    {
+      "name": "rope_header",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-33cf8b0e-81cf-493b-b7ab-2b950452899d.png"
+    },
+    {
+      "name": "panel_parchment",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-14b34a7c-9f9d-4e6c-867e-fc5d399981b2.png"
+    },
+    {
+      "name": "title_plaque",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-93c0f5e3-e19e-4b60-ba63-31ce5c8f2d35.png"
+    },
+    {
+      "name": "category_normal",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-dac64c27-4b9e-45c2-84d2-33b37e818ae2.png"
+    },
+    {
+      "name": "category_selected",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-3341f924-2d63-4ead-b95a-4dd973f9f9c5.png"
+    },
+    {
+      "name": "entry_normal",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-3f6d716c-f333-47d2-8d75-c0915f2986c1.png"
+    },
+    {
+      "name": "entry_selected",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-d6e89b8b-1730-40c3-b501-8fc5253d7ee5.png"
+    },
+    {
+      "name": "icon_all_piers",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-71085e92-b09e-4497-a23a-f9d30b5ce077.png"
+    },
+    {
+      "name": "icon_pier_01",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-17398f6c-7912-4c35-b15a-8fcfebbfc06f.png"
+    },
+    {
+      "name": "icon_pier_02",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-e658aad4-5586-459b-aaf9-0da29473afd6.png"
+    },
+    {
+      "name": "icon_pier_03",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-7c6eba5d-8ba6-4252-9f7f-da6d1e7758fa.png"
+    },
+    {
+      "name": "icon_treasure",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-436f1bef-4d78-45c1-ae38-ebe8490f3c06.png"
+    },
+    {
+      "name": "close_background",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-bee22227-1e35-49a8-afca-dc6897589164.png"
+    },
+    {
+      "name": "icon_close",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-8d78c53a-b2c5-4356-88b4-ae8f2fbd5df5.png"
+    },
+    {
+      "name": "sort_background",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-a5b0857c-f242-426e-a6de-f2e5dc751c10.png"
+    },
+    {
+      "name": "icon_dropdown",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-41725ddc-d72a-408e-a37f-d8701e95b815.png"
+    },
+    {
+      "name": "detail_wash",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-810689da-2149-4dfe-813c-7cf3ba49af15.png"
+    },
+    {
+      "name": "divider",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-52eddcfd-a56b-4937-8c8d-8dbfdcef87df.png"
+    },
+    {
+      "name": "category_pointer",
+      "path": "C:\\Users\\concr\\.codex\\generated_images\\01a0f89c-7bb8-7751-a71c-cb76e4afb3e6\\exec-4d99b954-b729-4b17-9f40-0446fada56db.png"
+    }
+  ],
+  "promptsRetained": [
+    {
+      "name": "frame_wood",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. Asset: hollow rectangular WOOD FRAME ONLY, landscape aspect approximately 1.9:1. Four continuous wooden rails with small dark iron corner fasteners; transparent empty center. NO ROPE ANYWHERE (rope supplied as separate overlay). NO title plaque, NO close button, NO panels. All corner fittings fully contained inside the rail silhouette, none projecting over future rope locations. Straight outer geometry, medium chunky golden brown wood. Frame outer bounding box should occupy 90 percent of canvas width, centered. Keep all details away from center transparent opening."
+    },
+    {
+      "name": "icon_treasure",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE small treasure chest category icon, dark brown wood with near-black iron straps, golden ivory simple latch, closed rounded lid, front view slight top visibility, centered square transparent canvas. Match reference Treasure icon. No text no ground."
+    },
+    {
+      "name": "close_background",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE small square wooden close button background with chamfered beveled dark golden wood edges and a recessed darker brown center. Blank center, NO X no lettering no rope no metal bolt. Match reference upper right close button. Centered square transparent canvas."
+    },
+    {
+      "name": "icon_close",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE thick white ivory X close-button glyph with thin very dark brown outline, rounded ends, square transparent canvas, no wood no button backing, no shadows beyond outline."
+    },
+    {
+      "name": "sort_background",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE blank compact horizontal parchment dropdown background, 4:1 rectangle with small rounded corners, thin tan recessed edge, warm light center. NO words, NO arrow, NO icon. Suitable for nine-slice, same parchment as reference Sort Name field."
+    },
+    {
+      "name": "icon_dropdown",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE small solid dark brown downward pointing triangular dropdown chevron, rounded triangle corners, centered square genuine transparent canvas, no field no writing no shadow."
+    },
+    {
+      "name": "detail_wash",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE pale blue desaturated watercolor paper wash behind a catch illustration, approximately square with irregular soft brushy edges, subtle translucent light blue center, genuine transparent outside. NO fish NO object NO words NO parchment backing. Very low contrast, reference wash behind large Anglora."
+    },
+    {
+      "name": "divider",
+      "prompt": "Use case: ui-mockup. Create ONE production UMG raster asset for a matching Catch Journal UI kit. Reference: the user's attached Catch Journal screen, warm faceted dockwood, parchment, cream rope, dark iron hardware, marine teal. Flat front view orthographic, crisp hand-painted low-poly bevels, no perspective. Genuine transparent outside, no checkerboard, no environment, no text, no fish artwork, no watermark. ONE thin warm tan hand-painted horizontal divider stroke for parchment stats rows, wide 8:1 composition centered on transparent canvas. Simple gently irregular line, tapered ends. No rope, wood, panels, icons, writing."
+    }
+  ]
+}
